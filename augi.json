@@ -1,0 +1,1102 @@
+[
+  {
+    "ref": "q001",
+    "question": "Kas ir veģetatīvā pavairošana?",
+    "options": {
+      "A": "Augu pavairošana ar sēklām",
+      "B": "Augu pavairošana ar apputeksnētājiem",
+      "C": "Augu pavairošana ar sporām",
+      "D": "Augu pavairošana ar auga veģetatīvajām daļām"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q002",
+    "question": "Kura auga daļa visbiežāk tiek izmantota spraudeņu pavairošanai?",
+    "options": {
+      "A": "Zieds",
+      "B": "Sakne",
+      "C": "Dzinums",
+      "D": "Auglis"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q003",
+    "question": "Kāds ir galvenais veģetatīvās pavairošanas ieguvums?",
+    "options": {
+      "A": "Lielāka ģenētiskā daudzveidība",
+      "B": "Ātrāka raža",
+      "C": "Mātesauga īpašību saglabāšana",
+      "D": "Mazāks darba apjoms"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q004",
+    "question": "Kura metode pieder pie generatīvās pavairošanas?",
+    "options": {
+      "A": "Potēšana",
+      "B": "Dalīšana",
+      "C": "Sēšana",
+      "D": "Atvasošana"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q005",
+    "question": "Kāpēc kokaudzētavās bieži izmanto potēšanu?",
+    "options": {
+      "A": "Sēklu dīgtspējas palielināšanai",
+      "B": "Vēlamās šķirnes un potcelma īpašību apvienošanai",
+      "C": "Apputeksnēšanas paātrinšanai",
+      "D": "Augu skaita samazināšanai"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q006",
+    "question": "Kas ir potcelms?",
+    "options": {
+      "A": "Auga virszemes daļa",
+      "B": "Augsnes veids",
+      "C": "Potēšanas instruments",
+      "D": "Augs, uz kura tiek uzpotēts cits augs vai šķirne"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q007",
+    "question": "Kura sezona visbiežāk piemērota lapu koku potēšanai?",
+    "options": {
+      "A": "Ziema",
+      "B": "Pavasaris",
+      "C": "Vasaras beigas",
+      "D": "Rudens"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q008",
+    "question": "Kāds faktors visvairāk ietekmē sēklu dīgšanu?",
+    "options": {
+      "A": "Mitrums un temperatūra",
+      "B": "Auga vecums",
+      "C": "Augsnes krāsa",
+      "D": "Gaisa spiediens"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q009",
+    "question": "Kas ir stratifikācija?",
+    "options": {
+      "A": "Augsnes mēslošana",
+      "B": "Sēklu apstrāde ar aukstumu",
+      "C": "Augu retināšana",
+      "D": "Laistīšanas režīms"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q010",
+    "question": "Kāpēc dažām sēklām nepieciešama stratifikācija?",
+    "options": {
+      "A": "Augšanas paātrināšanai",
+      "B": "Slimību novēršanai",
+      "C": "Augļu izmēru palielināšanai",
+      "D": "Dabiskos ziemas apstākļus imitēšanai"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q011",
+    "question": "Kura pavairošanas metode nodrošina vislielāko ģenētisko dažādību?",
+    "options": {
+      "A": "Spraudeņi",
+      "B": "Potēšana",
+      "C": "Sēklu pavairošana",
+      "D": "Dalīšana"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q012",
+    "question": "Kas ir atvasošana?",
+    "options": {
+      "A": "Sakņu apgriešana",
+      "B": "Jaunu dzinumu veidošanās no saknēm",
+      "C": "Lapu nomešana",
+      "D": "Ziedēšanas process"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q013",
+    "question": "Kuri augi visbiežāk pavairojas ar atvasēm?",
+    "options": {
+      "A": "Viengadīgie augi",
+      "B": "Skujkoki",
+      "C": "Krūmi un lapu koki",
+      "D": "Telpaugi"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q014",
+    "question": "Kas raksturo kvalitatīvu spraudeni?",
+    "options": {
+      "A": "Tas ir pēc iespējas vecāks",
+      "B": "Tas ir vesels un bez slimību pazīmēm",
+      "C": "Tam ir ziedi",
+      "D": "Tas ir ļoti garš"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q015",
+    "question": "Kāpēc spraudeņus bieži apstrādā ar sakņu veidošanās stimulatoriem?",
+    "options": {
+      "A": "Lapu skaitu palielināšanai",
+      "B": "Auga krāsas mainīšanai",
+      "C": "Kaitēkļu novēršanai",
+      "D": "Sakņu attīstības veicināšanai"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q016",
+    "question": "Kura vide ir vispiemērotākā spraudeņu apsakņošanai?",
+    "options": {
+      "A": "Sausa un karsta",
+      "B": "Mitra un silta",
+      "C": "Auksta un tumša",
+      "D": "Sausa un vēsa"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q017",
+    "question": "Kas ir mikropavairošana?",
+    "options": {
+      "A": "Pavairošana ar sēklām",
+      "B": "Pavairošana laboratorijas apstākļos no audu fragmentiem",
+      "C": "Pavairošana siltumnīcā",
+      "D": "Pavairošana ar potēšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q018",
+    "question": "Kāpēc mikropavairošana tiek izmantota kokaudzētavās?",
+    "options": {
+      "A": "Tā ir lētākā metode",
+      "B": "Tā neprasa speciālas zināšanas",
+      "C": "Tā nodrošina ātru un vienveidīgu stādu iegūšanu",
+      "D": "Tā palielina ģenētisko daudzveidību"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q019",
+    "question": "Kas ir dīgšanas procenti?",
+    "options": {
+      "A": "Augu augšanas ātrums",
+      "B": "Dīgušo sēklu attiecība pret sēto sēklu skaitu",
+      "C": "Augu izdzīvošanas rādītājs",
+      "D": "Sakņu garums"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q020",
+    "question": "Kā sēklu kvalitāte ietekmē stādu audzēšanu?",
+    "options": {
+      "A": "Tai nav nozīmes",
+      "B": "Tā ietekmē tikai ziedēšanu",
+      "C": "Tā ietekmē tikai krāsu",
+      "D": "Tā ietekmē dīgšanu un stādu vitalitāti"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q021",
+    "question": "Kas ir piķēšana?",
+    "options": {
+      "A": "Jauno dēstu pārstādīšana",
+      "B": "Augu mēslošana",
+      "C": "Augu apgriešana",
+      "D": "Laistīšanas pārtraukšana"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q022",
+    "question": "Kāpēc piķēšana ir nepieciešama?",
+    "options": {
+      "A": "Lai augi augtu lēnāk",
+      "B": "Lai nodrošinātu vairāk vietas sakņu attīstībai",
+      "C": "Lai samazinātu gaismas daudzumu",
+      "D": "Lai augus sagatavotu ziedēšanai"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q023",
+    "question": "Kuri augi parasti netiek pavairoti ar sēklām šķirnes saglabāšanai?",
+    "options": {
+      "A": "Dekoratīvie krūmi",
+      "B": "Graudaugi",
+      "C": "Viengadīgie ziedi",
+      "D": "Augļu koki"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q024",
+    "question": "Kas ietekmē spraudeņu izdzīvošanu pēc apsakņošanās?",
+    "options": {
+      "A": "Tikai auga krāsa",
+      "B": "Auga nosaukums",
+      "C": "Mitruma, gaismas un temperatūras režīms",
+      "D": "Augsnes smarža"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q025",
+    "question": "Kāpēc svarīga ir pavairošanas materiāla izcelsme?",
+    "options": {
+      "A": "Lai samazinātu darba apjomu",
+      "B": "Lai palielinātu cenu",
+      "C": "Lai nodrošinātu veselīgus un piemērotus augus",
+      "D": "Lai mainītu augšanas sezonu"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q026",
+    "question": "Kas ir augsnes struktūra?",
+    "options": {
+      "A": "Augsnes krāsa",
+      "B": "Augsnes daļiņu savstarpējais izvietojums un to apvienošanās struktūrdaļiņās",
+      "C": "Augsnes mitrums",
+      "D": "Augsnes temperatūra"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q027",
+    "question": "Kura augsnes struktūra ir vislabvēlīgākā augiem?",
+    "options": {
+      "A": "Blīva",
+      "B": "Putekļaina",
+      "C": "Drupena",
+      "D": "Akmeņaina"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q028",
+    "question": "Kas raksturo smilšainu augsni?",
+    "options": {
+      "A": "Laba ūdens noturība",
+      "B": "Slikta drenāža",
+      "C": "Ātra ūdens caurlaidība",
+      "D": "Augsts māla saturs"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q029",
+    "question": "Kāpēc mālainā augsnē bieži ir problēmas ar sakņu attīstību?",
+    "options": {
+      "A": "Tā ir pārāk silta",
+      "B": "Tā ir blīva un ar slikti caurlaidīgu struktūru",
+      "C": "Tā satur pārāk daudz barības vielu",
+      "D": "Tā ir pārāk viegla"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q030",
+    "question": "Kas ir augsnes pH?",
+    "options": {
+      "A": "Augsnes mitruma rādītājs",
+      "B": "Augsnes blīvums",
+      "C": "Augsnes skābuma vai sārmainības rādītājs",
+      "D": "Augsnes temperatūra"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q031",
+    "question": "Kāpēc augsnes pH ir svarīgs augiem?",
+    "options": {
+      "A": "Tas ietekmē barības vielu pieejamību",
+      "B": "Tas nosaka auga krāsu",
+      "C": "Tas ietekmē tikai mikroorganismus",
+      "D": "Tam nav nozīmes"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q032",
+    "question": "Kura pH vide lielākajai daļai koku ir piemērotākā?",
+    "options": {
+      "A": "Spēcīgi skāba",
+      "B": "Viegli skāba līdz neitrāla",
+      "C": "Spēcīgi sārmaina",
+      "D": "Ļoti mainīga"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q033",
+    "question": "Kas ir organiskā viela augsnē?",
+    "options": {
+      "A": "Minerāldaļiņas",
+      "B": "Smiltis",
+      "C": "Akmeņi",
+      "D": "Sadalījušās augu un dzīvnieku atliekas"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q034",
+    "question": "Kāda ir organiskās vielas nozīme?",
+    "options": {
+      "A": "Tā uzlabo augsnes struktūru un barības vielu pieejamību",
+      "B": "Tā samazina augu augšanu",
+      "C": "Tā paaugstina temperatūru",
+      "D": "Tā kavē mikroorganismus"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q035",
+    "question": "Kas ir minerālmēsli?",
+    "options": {
+      "A": "Dabiski sadalījušies augi",
+      "B": "Tikai kūtsmēsli",
+      "C": "Rūpnieciski ražoti barības vielu avoti",
+      "D": "Tikai komposts"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q036",
+    "question": "Kura barības viela visvairāk veicina lapu augšanu?",
+    "options": {
+      "A": "Fosfors",
+      "B": "Kālijs",
+      "C": "Slāpeklis",
+      "D": "Kalcijs"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q037",
+    "question": "Kura barības viela ir svarīga sakņu attīstībai?",
+    "options": {
+      "A": "Fosfors",
+      "B": "Slāpeklis",
+      "C": "Magnijs",
+      "D": "Nātrijs"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q038",
+    "question": "Kāpēc pārāk liels mēslojuma daudzums ir kaitīgs?",
+    "options": {
+      "A": "Tas palēnina augšanu",
+      "B": "Tas var bojāt saknes",
+      "C": "Tas samazina fotosintēzi",
+      "D": "Tas nav kaitīgs"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q039",
+    "question": "Kas ir komposts?",
+    "options": {
+      "A": "Minerālmēslojums",
+      "B": "Māls",
+      "C": "Smilšu maisījums",
+      "D": "Sadalījušās organiskās atliekas"
+    },
+    "answer": "D"
+  },
+  {
+    "ref": "q040",
+    "question": "Kāpēc komposts ir vērtīgs kokaudzētavā?",
+    "options": {
+      "A": "Tas uzlabo augsnes struktūru un barības vielu saturu",
+      "B": "Tas iznīcina augus",
+      "C": "Tas samazina mitrumu",
+      "D": "Tas aizvieto laistīšanu"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q041",
+    "question": "Kas ir augsnes drenāža?",
+    "options": {
+      "A": "Augsnes mēslošana",
+      "B": "Ūdens novadīšana no augsnes",
+      "C": "Augsnes sasilšana",
+      "D": "Augsnes apstrāde"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q042",
+    "question": "Kāpēc laba drenāža ir svarīga?",
+    "options": {
+      "A": "Tā paaugstina temperatūru",
+      "B": "Tā novērš sakņu skābekļa trūkumu",
+      "C": "Tā palielina barības vielu daudzumu",
+      "D": "Tā samazina augu skaitu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q043",
+    "question": "Kas ir augsnes analīze?",
+    "options": {
+      "A": "Augsnes krāsas noteikšana",
+      "B": "Augsnes ķīmisko īpašību noteikšana",
+      "C": "Augsnes laistīšana",
+      "D": "Augsnes rakšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q044",
+    "question": "Kāpēc augsnes analīze ir noderīga?",
+    "options": {
+      "A": "Tā ļauj precīzāk plānot mēslošanu",
+      "B": "Tā aizvieto laistīšanu",
+      "C": "Tā paātrina stādīšanu",
+      "D": "Tā samazina darba apjomu"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q045",
+    "question": "Kas notiek augsnē ar sliktu aerāciju?",
+    "options": {
+      "A": "Saknes saņem pietiekami skābekļa",
+      "B": "Augi aug ātrāk",
+      "C": "Saknes var ciest no skābekļa trūkuma",
+      "D": "Barības vielas palielinās"
+    },
+    "answer": "C"
+  },
+  {
+    "ref": "q046",
+    "question": "Kā mulčēšana ietekmē augsni?",
+    "options": {
+      "A": "Palielina iztvaikošanu",
+      "B": "Samazina mitruma zudumu",
+      "C": "Samazina temperatūru ziemā",
+      "D": "Kavē sakņu augšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q047",
+    "question": "Kāpēc svarīga ir augsnes temperatūra?",
+    "options": {
+      "A": "Tā ietekmē sakņu un mikroorganismu darbību",
+      "B": "Tā ietekmē tikai krāsu",
+      "C": "Tā nav nozīmīga",
+      "D": "Tā ietekmē tikai lapas"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q048",
+    "question": "Kas ir humuss?",
+    "options": {
+      "A": "Svaigas augu atliekas",
+      "B": "Stabilizēta organiskā viela augsnē",
+      "C": "Smiltis",
+      "D": "Minerālmēslojums"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q049",
+    "question": "Kā humuss ietekmē augsni?",
+    "options": {
+      "A": "Samazina barības vielu pieejamību",
+      "B": "Uzlabo ūdens un barības vielu noturību",
+      "C": "Samazina mikroorganismus",
+      "D": "Padara augsni neauglīgu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q050",
+    "question": "Kāpēc augsnes uzlabošana ir ilgtermiņa process?",
+    "options": {
+      "A": "Izmaiņas notiek pakāpeniski",
+      "B": "Tas nav iespējams",
+      "C": "Tas nav svarīgi augu audzēšanai",
+      "D": "Tas ir dārgi"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q051",
+    "question": "Kas ir augu slimība?",
+    "options": {
+      "A": "Normāla augšanas stadija",
+      "B": "Patoloģisks stāvoklis, ko izraisa patogēni vai vide",
+      "C": "Sezonāla izmaiņa",
+      "D": "Apgriešanas rezultāts"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q052",
+    "question": "Kura no minētajām ir sēņu izraisīta slimība?",
+    "options": {
+      "A": "Rūsas slimība",
+      "B": "Saules apdegums",
+      "C": "Barības vielu trūkums",
+      "D": "Mehānisks bojājums"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q053",
+    "question": "Kas veicina sēņu slimību attīstību?",
+    "options": {
+      "A": "Sauss un vēss laiks",
+      "B": "Mitrs un silts laiks",
+      "C": "Spēcīgs vējš",
+      "D": "Zema gaisa temperatūra"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q054",
+    "question": "Kāda ir profilakses nozīme augu aizsardzībā?",
+    "options": {
+      "A": "Tā samazina slimību risku",
+      "B": "Tā palielina slimību izplatību",
+      "C": "Tā aizvieto kopšanu",
+      "D": "Tā nav nepieciešama"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q055",
+    "question": "Kas ir integrētā augu aizsardzība?",
+    "options": {
+      "A": "Tikai ķīmisko līdzekļu lietošana",
+      "B": "Dažādu aizsardzības metožu kombinēšana",
+      "C": "Tikai mehāniskā aizsardzība",
+      "D": "Slimību ignorēšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q056",
+    "question": "Kāpēc kokaudzētavās svarīga ir regulāra augu apskate?",
+    "options": {
+      "A": "Lai noteiktu augu augstumu",
+      "B": "Lai savlaicīgi pamanītu slimības un kaitēkļus",
+      "C": "Lai mainītu augu vietu",
+      "D": "Lai samazinātu laistīšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q057",
+    "question": "Kas ir kaitēklis?",
+    "options": {
+      "A": "Noderīgs kukainis",
+      "B": "Organisms, kas bojā augus",
+      "C": "Augsnes mikroorganisms",
+      "D": "Neitrāls dzīvnieks"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q058",
+    "question": "Kāds ir galvenais kaitēkļu bojājumu risks?",
+    "options": {
+      "A": "Samazināta fotosintēze un augu bojāeja",
+      "B": "Palielināta augšana",
+      "C": "Uzlabota ziedēšana",
+      "D": "Lielāka izturība"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q059",
+    "question": "Kāpēc svarīga ir pareiza laistīšana?",
+    "options": {
+      "A": "Lai augi izskatītos zaļāki",
+      "B": "Lai nodrošinātu ūdens pieejamību bez sakņu bojājumiem",
+      "C": "Lai paātrinātu ziedēšanu",
+      "D": "Lai samazinātu mēslojumu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q060",
+    "question": "Kas notiek pārmērīgas laistīšanas gadījumā?",
+    "options": {
+      "A": "Uzlabojas sakņu aerācija",
+      "B": "Saknes var ciest no skābekļa trūkuma",
+      "C": "Augi kļūst izturīgāki",
+      "D": "Samazinās slimību risks"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q061",
+    "question": "Kāpēc augus apgriež?",
+    "options": {
+      "A": "Lai samazinātu augšanu",
+      "B": "Lai veicinātu veselīgu vainaga attīstību",
+      "C": "Lai mainītu augsnes sastāvu",
+      "D": "Lai samazinātu laistīšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q062",
+    "question": "Kurš laiks parasti ir piemērots lapu koku veidojošai apgriešanai?",
+    "options": {
+      "A": "Veģetācijas maksimumā",
+      "B": "Miera periodā",
+      "C": "Ziedēšanas laikā",
+      "D": "Ražas laikā"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q063",
+    "question": "Kas ir sezonalitāte augkopībā?",
+    "options": {
+      "A": "Nejauša augšana",
+      "B": "Augu attīstības cikliskums gada laikā",
+      "C": "Augu krāsas maiņa",
+      "D": "Slimību veids"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q064",
+    "question": "Kāpēc stādīšanas laiks ir svarīgs?",
+    "options": {
+      "A": "Tas ietekmē augu iesakņošanos",
+      "B": "Tas ietekmē tikai cenu",
+      "C": "Tas nav būtisks",
+      "D": "Tas ietekmē tikai ziedus"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q065",
+    "question": "Kura sezona visbiežāk ir piemērota koku stādīšanai?",
+    "options": {
+      "A": "Ziema",
+      "B": "Pavasaris vai rudens",
+      "C": "Vasaras vidus",
+      "D": "Visas vienādi"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q066",
+    "question": "Kas notiek augam stresa apstākļos?",
+    "options": {
+      "A": "Tas aug ātrāk",
+      "B": "Tas kļūst uzņēmīgāks pret slimībām",
+      "C": "Tas ražo vairāk sēklu",
+      "D": "Tas uzlabo saknes"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q067",
+    "question": "Kas ir aklimatizācija?",
+    "options": {
+      "A": "Augu slimība",
+      "B": "Auga pielāgošanās jaunai videi",
+      "C": "Augu pavairošana",
+      "D": "Augu bojāšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q068",
+    "question": "Kāpēc stādus pakāpeniski pieradina pie āra apstākļiem?",
+    "options": {
+      "A": "Lai palielinātu izmaksas",
+      "B": "Lai samazinātu stresu",
+      "C": "Lai paātrinātu augšanu",
+      "D": "Lai mainītu krāsu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q069",
+    "question": "Kas ir augu miera periods?",
+    "options": {
+      "A": "Aktīvas augšanas laiks",
+      "B": "Laiks, kad augšana ir minimāla",
+      "C": "Slimības stadija",
+      "D": "Ziedēšanas maksimums"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q070",
+    "question": "Kāpēc miera periods ir svarīgs kokiem?",
+    "options": {
+      "A": "Tas palēnina attīstību",
+      "B": "Tas ļauj augiem atjaunoties",
+      "C": "Tas samazina ražu",
+      "D": "Tas nav nozīmīgs"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q071",
+    "question": "Kā sala bojājumi ietekmē augus?",
+    "options": {
+      "A": "Uzlabo izturību",
+      "B": "Var bojāt šūnas un audus",
+      "C": "Palielina ziedēšanu",
+      "D": "Nav ietekmes"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q072",
+    "question": "Kāpēc jauni stādi ir jutīgāki pret salu?",
+    "options": {
+      "A": "Tiem ir vairāk lapu",
+      "B": "Tiem ir vājāk attīstīta sakņu sistēma",
+      "C": "Tie aug ātrāk",
+      "D": "Tie ir vecāki"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q073",
+    "question": "Kas ir saules apdegums augiem?",
+    "options": {
+      "A": "Sēņu slimība",
+      "B": "Audu bojājums pārmērīga starojuma dēļ",
+      "C": "Kaitēkļu bojājums",
+      "D": "Barības vielu trūkums"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q074",
+    "question": "Kāpēc svarīga ir augu izvietošana atbilstoši gaismas prasībām?",
+    "options": {
+      "A": "Lai samazinātu laistīšanu",
+      "B": "Lai nodrošinātu optimālu augšanu",
+      "C": "Lai mainītu krāsu",
+      "D": "Lai samazinātu cenu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q075",
+    "question": "Kas notiek ēnā augošiem augiem nepietiekamas gaismas gadījumā?",
+    "options": {
+      "A": "Tie kļūst kompaktāki",
+      "B": "Tie izstīdzē",
+      "C": "Tie ražo vairāk ziedu",
+      "D": "Tie kļūst izturīgāki"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q076",
+    "question": "Kas ir augu retināšana?",
+    "options": {
+      "A": "Augu laistīšana",
+      "B": "Daļas augu izņemšana, lai samazinātu blīvumu",
+      "C": "Augu apgriešana",
+      "D": "Augu mēslošana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q077",
+    "question": "Kāpēc retināšana ir nepieciešama?",
+    "options": {
+      "A": "Lai augi saņemtu vairāk resursu",
+      "B": "Lai samazinātu augšanu",
+      "C": "Lai palielinātu blīvumu",
+      "D": "Lai novērstu ziedēšanu"
+    },
+    "answer": "A"
+  },
+  {
+    "ref": "q078",
+    "question": "Kas ir nezāle?",
+    "options": {
+      "A": "Noderīgs augs",
+      "B": "Augs, kas aug nevēlamā vietā",
+      "C": "Slims augs",
+      "D": "Kultūraugs"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q079",
+    "question": "Kāpēc nezāles ir problemātiskas kokaudzētavās?",
+    "options": {
+      "A": "Tās uzlabo augsni",
+      "B": "Tās konkurē par ūdeni un barības vielām",
+      "C": "Tās samazina slimības",
+      "D": "Tās palielina mitrumu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q080",
+    "question": "Kas ir mehāniskā nezāļu apkarošana?",
+    "options": {
+      "A": "Ķīmisko līdzekļu lietošana",
+      "B": "Nezāļu noņemšana ar fiziskām metodēm",
+      "C": "Bioloģiskā kontrole",
+      "D": "Nezāļu ignorēšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q081",
+    "question": "Kāpēc svarīga ir darba higiēna kokaudzētavā?",
+    "options": {
+      "A": "Lai samazinātu instrumentu nodilumu",
+      "B": "Lai novērstu slimību izplatīšanos",
+      "C": "Lai palielinātu darba ātrumu",
+      "D": "Lai samazinātu laistīšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q082",
+    "question": "Kas ir augu karantīna?",
+    "options": {
+      "A": "Augu mēslošana",
+      "B": "Jaunu vai slimu augu izolēšana",
+      "C": "Augu pārstādīšana",
+      "D": "Augu apgriešana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q083",
+    "question": "Kāpēc karantīna ir svarīga?",
+    "options": {
+      "A": "Lai paātrinātu augšanu",
+      "B": "Lai novērstu slimību ievazāšanu",
+      "C": "Lai samazinātu darba apjomu",
+      "D": "Lai uzlabotu izskatu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q084",
+    "question": "Kas ir bioloģiskā augu aizsardzība?",
+    "options": {
+      "A": "Ķīmisko līdzekļu izmantošana",
+      "B": "Dabisko ienaidnieku izmantošana",
+      "C": "Mehāniskā apstrāde",
+      "D": "Augu iznīcināšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q085",
+    "question": "Kāpēc bioloģiskā aizsardzība tiek uzskatīta par ilgtspējīgu?",
+    "options": {
+      "A": "Tā ir lētāka",
+      "B": "Tā samazina negatīvu ietekmi uz vidi",
+      "C": "Tā ir ātrāka",
+      "D": "Tā neprasa zināšanas"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q086",
+    "question": "Kas ir veģetācijas periods?",
+    "options": {
+      "A": "Augu miera periods",
+      "B": "Aktīvās augšanas periods",
+      "C": "Slimības stadija",
+      "D": "Ražas uzglabāšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q087",
+    "question": "Kā klimats ietekmē veģetācijas periodu?",
+    "options": {
+      "A": "Tam nav ietekmes",
+      "B": "Tas nosaka perioda garumu",
+      "C": "Tas ietekmē tikai krāsu",
+      "D": "Tas ietekmē tikai saknes"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q088",
+    "question": "Kas ir sausuma stress?",
+    "options": {
+      "A": "Augu slimība",
+      "B": "Reakcija uz ūdens trūkumu",
+      "C": "Aukstuma ietekme",
+      "D": "Barības vielu pārpalikums"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q089",
+    "question": "Kā augi reaģē uz ilgstošu sausumu?",
+    "options": {
+      "A": "Palielina augšanu",
+      "B": "Samazina augšanu un fotosintēzi",
+      "C": "Palielina ziedēšanu",
+      "D": "Palielina sakņu bojājumus tikai"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q090",
+    "question": "Kāpēc svarīga ir pareiza stādu uzglabāšana pirms stādīšanas?",
+    "options": {
+      "A": "Lai mainītu to krāsu",
+      "B": "Lai novērstu izžūšanu un bojājumus",
+      "C": "Lai paātrinātu augšanu",
+      "D": "Lai samazinātu izmaksas"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q091",
+    "question": "Kas ir stādu kvalitātes rādītājs?",
+    "options": {
+      "A": "Tikai augstums",
+      "B": "Sakņu sistēmas attīstība un veselība",
+      "C": "Krāsa",
+      "D": "Cena"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q092",
+    "question": "Kāpēc sakņu bojājumi ir bīstami?",
+    "options": {
+      "A": "Tie uzlabo barības vielu uzņemšanu",
+      "B": "Tie samazina ūdens un barības vielu uzņemšanu",
+      "C": "Tie nav nozīmīgi",
+      "D": "Tie paātrina augšanu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q093",
+    "question": "Kas ir augu izturība?",
+    "options": {
+      "A": "Spēja augt tikai ideālos apstākļos",
+      "B": "Spēja pārciest nelabvēlīgus apstākļus",
+      "C": "Spēja ziedēt visu gadu",
+      "D": "Spēja mainīt krāsu"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q094",
+    "question": "Kāpēc šķirņu izvēle ir svarīga?",
+    "options": {
+      "A": "Tikai izskata dēļ",
+      "B": "Lai augi būtu piemēroti konkrētajiem apstākļiem",
+      "C": "Lai samazinātu darbu",
+      "D": "Lai palielinātu slimības"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q095",
+    "question": "Kas ir selekcija?",
+    "options": {
+      "A": "Nejauša pavairošana",
+      "B": "Mērķtiecīga augu atlase ar vēlamām īpašībām",
+      "C": "Augu bojāšana",
+      "D": "Augu iznīcināšana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q096",
+    "question": "Kāpēc selekcija ir ilgtermiņa process?",
+    "options": {
+      "A": "Jo rezultāti ir tūlītēji",
+      "B": "Jo īpašību stabilitāte jānovērtē vairākās paaudzēs",
+      "C": "Jo tā nav efektīva",
+      "D": "Jo tā ir vienkārša"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q097",
+    "question": "Kas ir ilgtspējīga augkopība?",
+    "options": {
+      "A": "Maksimāla raža jebkādiem līdzekļiem",
+      "B": "Resursu izmantošana, saglabājot vidi nākotnei",
+      "C": "Tikai bioloģiskā audzēšana",
+      "D": "Tikai tradicionālās metodes"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q098",
+    "question": "Kāpēc ūdens resursu pārvaldība ir svarīga kokaudzētavā?",
+    "options": {
+      "A": "Lai palielinātu mitrumu",
+      "B": "Lai nodrošinātu pietiekamu un efektīvu laistīšanu",
+      "C": "Lai samazinātu augu skaitu",
+      "D": "Lai palielinātu izmaksas"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q099",
+    "question": "Kas raksturo veselīgu kokaudzētavu?",
+    "options": {
+      "A": "Augsts slimību līmenis",
+      "B": "Sabalansēta kopšana, uzraudzība un profilakse",
+      "C": "Minimāla uzmanība",
+      "D": "Tikai intensīva mēslošana"
+    },
+    "answer": "B"
+  },
+  {
+    "ref": "q100",
+    "question": "Kāpēc pieredze ir svarīga augkopībā?",
+    "options": {
+      "A": "Tā aizvieto zināšanas",
+      "B": "Tā palīdz pieņemt labākus lēmumus praksē",
+      "C": "Tā nav būtiska",
+      "D": "Tā palielina nejaušību"
+    },
+    "answer": "B"
+  }
+]
